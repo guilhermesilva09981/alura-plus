@@ -86,7 +86,7 @@ body {
     padding: 2em;
 }
 
-.descricao titulo {
+.descrica__titulo {
     font-weight: 700;
     font-size: 48px;
     color: var(--branco-principal);
@@ -94,7 +94,14 @@ body {
 
 }
 
-descricao texto {
+.descrica__texto {
     color: var(--cinza-secundario);
+
+}
+
+
+.secundario__botao {
+display: inline-block;
+margin-top: 1em;
 
 }
