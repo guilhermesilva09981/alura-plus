@@ -33,12 +33,11 @@ body {
     text-align: center;
 }
 .container {
-height: 100vh;
-display: grid;
-grid-template-columns: 50% 50%;
-
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
 
 .container_caixa {
-margin: 0 6em;
+    margin: 0 6em;
 }
